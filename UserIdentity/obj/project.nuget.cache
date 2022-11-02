@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dSup0TFEi8FrBVt9NFdI9y14ZwOKldcDZN478UnMeUNYvgGM9QS0C8sXQhnkaSSJ8wITz845nVJuy8OTKhnfmQ==",
+  "dgSpecHash": "0+oTZGfn8DfXS5LGK7am+3bysifjfU95amAsV9o2YRYZmpPFFwXTV/G3qqrF+4EG0e2CD3ob8v+8LUH8xWOMYQ==",
   "success": true,
-  "projectFilePath": "C:\\FSE\\eAuction\\UserIdentity\\UserIdentity.csproj",
+  "projectFilePath": "C:\\FSE\\Project\\eAuction\\UserIdentity\\UserIdentity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cogdotnet1332\\.nuget\\packages\\aspnetcore.identity.mongodbcore\\3.1.2\\aspnetcore.identity.mongodbcore.3.1.2.nupkg.sha512",
     "C:\\Users\\cogdotnet1332\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",

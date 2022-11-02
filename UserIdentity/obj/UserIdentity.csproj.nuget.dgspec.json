@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FSE\\eAuction\\UserIdentity\\UserIdentity.csproj": {}
+    "C:\\FSE\\Project\\eAuction\\UserIdentity\\UserIdentity.csproj": {}
   },
   "projects": {
-    "C:\\FSE\\eAuction\\UserIdentity\\UserIdentity.csproj": {
+    "C:\\FSE\\Project\\eAuction\\UserIdentity\\UserIdentity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FSE\\eAuction\\UserIdentity\\UserIdentity.csproj",
+        "projectUniqueName": "C:\\FSE\\Project\\eAuction\\UserIdentity\\UserIdentity.csproj",
         "projectName": "UserIdentity",
-        "projectPath": "C:\\FSE\\eAuction\\UserIdentity\\UserIdentity.csproj",
+        "projectPath": "C:\\FSE\\Project\\eAuction\\UserIdentity\\UserIdentity.csproj",
         "packagesPath": "C:\\Users\\cogdotnet1332\\.nuget\\packages\\",
-        "outputPath": "C:\\FSE\\eAuction\\UserIdentity\\obj\\",
+        "outputPath": "C:\\FSE\\Project\\eAuction\\UserIdentity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

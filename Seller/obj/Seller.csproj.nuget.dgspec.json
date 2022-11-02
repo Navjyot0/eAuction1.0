@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FSE\\eAuction\\Seller\\Seller.csproj": {}
+    "C:\\FSE\\Project\\eAuction\\Seller\\Seller.csproj": {}
   },
   "projects": {
-    "C:\\FSE\\eAuction\\Seller\\Seller.csproj": {
+    "C:\\FSE\\Project\\eAuction\\Seller\\Seller.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FSE\\eAuction\\Seller\\Seller.csproj",
+        "projectUniqueName": "C:\\FSE\\Project\\eAuction\\Seller\\Seller.csproj",
         "projectName": "Seller",
-        "projectPath": "C:\\FSE\\eAuction\\Seller\\Seller.csproj",
+        "projectPath": "C:\\FSE\\Project\\eAuction\\Seller\\Seller.csproj",
         "packagesPath": "C:\\Users\\cogdotnet1332\\.nuget\\packages\\",
-        "outputPath": "C:\\FSE\\eAuction\\Seller\\obj\\",
+        "outputPath": "C:\\FSE\\Project\\eAuction\\Seller\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

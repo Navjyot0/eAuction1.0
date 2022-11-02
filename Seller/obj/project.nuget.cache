@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NzYRBkMR2vnl0zFlQdPqqVTsUPb5U+T/uCgfuxquf7JgWhOQ20r1JvODacXX2ocFNIlfvSJFKfURzyPq8ChTcg==",
+  "dgSpecHash": "C3Xac7HEePan63PneyPcrshR9mfd25VpL7EaU9NQTA8wmN5k6V2oxNjivoTQpjSb8HXx1azmW/xa8yZetw4cwQ==",
   "success": true,
-  "projectFilePath": "C:\\FSE\\eAuction\\Seller\\Seller.csproj",
+  "projectFilePath": "C:\\FSE\\Project\\eAuction\\Seller\\Seller.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cogdotnet1332\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\cogdotnet1332\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

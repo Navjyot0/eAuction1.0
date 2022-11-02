@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -12,6 +13,7 @@ using UserIdentity.Models;
 
 namespace UserIdentity.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class UserController : ControllerBase
@@ -33,6 +35,7 @@ namespace UserIdentity.Controllers
         }
 
         // POST api/<UserController>
+        [AllowAnonymous]
         [HttpPost]
         public async Task<ActionResult> Post(User user)
         {
@@ -52,6 +55,7 @@ namespace UserIdentity.Controllers
             return StatusCode(StatusCodes.Status400BadRequest);
         }
 
+        [AllowAnonymous]
         [HttpPost("authenticate")]
         public IActionResult Authenticate(UserCred userCred)
         {
